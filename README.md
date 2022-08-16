@@ -1,7 +1,7 @@
 # Project Title: Deploy Angular Application in Docker Container
 
 1.	First I developed an angular application along with dockerfile,nginx to my git repository as below.
-a.	https://github.com/SUBHA1997-SELVI/slprjct1.git
+a.https://github.com/SUBHA1997-SELVI/new-1.git
 2.	Then installed node/NPM on Ubuntu
 3.	Install angular on Ubuntu.
 4.	Cloned my angular git repository.
@@ -16,7 +16,7 @@ a.	https://github.com/SUBHA1997-SELVI/slprjct1.git
 a.	Curl –sL https://deb.nodesource.com/setup_16.x | sudo -E bash –
 b.	Sudo apt install nodejs
 c.	npm install –g @angular/cli
-d.	git clone https://github.com/SUBHA1997-SELVI/slprjct1.git
+d.	git clone https://github.com/SUBHA1997-SELVI/new-1.git
 e.	npm update
 f.	npm install --save-dev@angular-devkit/build-angular
 g.	npm audit fix
@@ -31,5 +31,5 @@ b.	Install Angular on Ununtu
 i.	npm install –g @angular/cli  
 ii.	npm  update –g
 c.	Git one Angular Project
-i. git clone https://github.com/SUBHA1997-SELVI/slprjct1.git
+i. git clonehttps://github.com/SUBHA1997-SELVI/new-1.git
 
