@@ -1,0 +1,12 @@
+Here some of the code of the projects
+
+Curl –sL https://deb.nodesource.com/setup_16.x | sudo -E bash –
+Sudo apt install nodejs
+npm install –g @angular/cli
+git clone https://github.com/SUBHA1997-SELVI/new-1.git
+npm update
+npm install --save-dev@angular-devkit/build-angular
+npm audit fix
+ng build –prod
+docker build –t MyAngularApp-image .
+docker run –name MyAngularApp-container –d –p localhost:4200 MyAngularApp-image
